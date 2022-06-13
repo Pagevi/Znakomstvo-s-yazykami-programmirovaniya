@@ -1,0 +1,15 @@
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\Task03.csproj.AssemblyReference.cache
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\Task03.AssemblyInfoInputs.cache
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\Task03.AssemblyInfo.cs
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\Task03.csproj.CoreCompileInputs.cache
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\bin\Debug\net6.0\Task03.exe
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\bin\Debug\net6.0\Task03.deps.json
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\bin\Debug\net6.0\Task03.runtimeconfig.json
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\bin\Debug\net6.0\Task03.dll
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\bin\Debug\net6.0\Task03.pdb
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\Task03.dll
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\refint\Task03.dll
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\Task03.pdb
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\Task03.genruntimeconfig.cache
+F:\GeekBrains\04_Языки_программирования\02_Семинары\DZ\Lesson01\Task03\obj\Debug\net6.0\ref\Task03.dll
